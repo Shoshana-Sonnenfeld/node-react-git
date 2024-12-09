@@ -12,8 +12,9 @@ function App() {
   return (
     <>
       {/*    <Cities/>*/}
-      {/* <Details /> */}
-      <CntBtn/>
+      {/* <CntBtn /> */}
+      <Details/>
+      
      
     </>
   );
